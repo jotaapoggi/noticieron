@@ -1,0 +1,19 @@
+body
+{
+margin:0;
+padding:0;
+background-image:url("fondo.jpg");
+background-size:cover;
+backgorund-position:full screen;
+font-family:sans-serif;
+}
+a
+{
+background-color:black;
+font-color:red;
+font-family:comics sans;
+}
+P
+{
+color:white;
+}
